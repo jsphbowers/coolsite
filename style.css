@@ -1,0 +1,57 @@
+h1 {
+    color: aliceblue;
+    padding-bottom: 0%;
+}
+
+header {
+    background-color: blue;
+    border: 1px solid black;
+
+}
+
+footer {
+    background-color: blue;
+}
+
+.cool-bar {
+    background-color: deepskyblue;
+    margin: 5px;
+}
+
+/* Utilitites */
+
+.d-flex {
+    display: flex;
+}
+
+.justify-content-evenly {
+    justify-content: space-evenly;
+}
+
+.justify-content-end {
+    justify-content: end;
+}
+
+.align-bottom {
+    align-items: end;
+}
+
+.align-center {
+    align-items: center;
+}
+
+.row {
+    min-height: 30vh;
+}
+
+.text-center{
+    text-align: center;
+}
+
+.p-2 {
+    padding: 2em;
+}
+
+.m-2 {
+    margin: 2em;
+}
