@@ -6,16 +6,40 @@ h1 {
 header {
     background-color: blue;
     border: 1px solid black;
+    margin-bottom: 10px;
 
 }
 
 footer {
     background-color: blue;
+    text-align: center;
 }
 
 .cool-bar {
     background-color: deepskyblue;
     margin: 5px;
+}
+
+.text-paragraphs{
+    margin: 1em;
+}
+
+.image {
+    background-color: rgb(0, 148, 198);
+}
+
+.designer-image {
+    height: 70%;
+    width: 70%;
+}
+
+.main-content {
+    margin-left: 5em;
+    flex-direction: column;
+}
+
+.main-title {
+    text-align: center;
 }
 
 /* Utilitites */
