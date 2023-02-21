@@ -18,6 +18,8 @@ footer {
 .cool-bar {
     background-color: deepskyblue;
     margin: 5px;
+    height: 1px;
+    width: 35em;
 }
 
 .text-paragraphs{
